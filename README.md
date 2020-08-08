@@ -1,2 +1,2 @@
 # Books For Sale
-Displays Books for Sale fetched from an API in SwiftUI via ViewModels. 
+Displays Books for Sale fetched from a URL in SwiftUI via ViewModels. 
